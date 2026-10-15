@@ -1,0 +1,70 @@
+
+## 2. `docs/ai-usage-report.md`
+
+```markdown
+# AI Usage Report
+
+## Tool Used
+
+I used ChatGPT as an AI-assisted development and documentation tool.
+
+## Tools Used and Use Cases
+
+ChatGPT was used during different stages of the assignment:
+
+- Planning the structure of the interactive portfolio.
+- Suggesting improvements to the visual design and user experience.
+- Helping organize the HTML, CSS, JavaScript, image, and documentation files.
+- Suggesting JavaScript for the dark and light mode feature.
+- Helping create the interactive project modal.
+- Helping connect project posters and video links.
+- Helping add contact-form validation and user feedback.
+- Reviewing the project structure and documentation.
+- Improving the wording of the portfolio introduction and project descriptions.
+
+## Benefits
+
+Using AI helped me generate ideas more efficiently and understand how different web technologies work together.
+
+It helped me understand:
+
+- How JavaScript can respond to button clicks.
+- How localStorage can save a user's theme preference.
+- How a modal window can display dynamic content.
+- How form validation can give feedback to users.
+- How CSS transitions and hover effects can improve the user experience.
+- How to organize a web project into separate files.
+
+## Challenges and Limitations
+
+Some AI suggestions needed to be checked and adjusted before using them. For example, file names and image paths had to match the actual files in my project.
+
+I also needed to test the website because code that looks correct may still contain problems such as:
+
+- Incorrect image paths.
+- Missing HTML elements.
+- Incorrect file names.
+- Links that do not open correctly.
+- Styling problems on smaller screens.
+
+## Learning Outcomes
+
+Through this assignment, I learned how to:
+
+- Build a more interactive website using JavaScript.
+- Use DOM selection and event listeners.
+- Create a project modal that updates dynamically.
+- Save user preferences using localStorage.
+- Validate form fields.
+- Display success and error messages.
+- Use responsive CSS for different screen sizes.
+- Improve the visual identity of a portfolio website.
+- Organize project assets and documentation.
+
+## Responsible Use and Modifications
+
+I did not submit AI-generated code without reviewing it. I changed the content, project names, descriptions, images, colors, layout, and links to match my own work and identity.
+
+I also tested the website in the browser and checked the main interactions myself. AI was used as a support tool for learning, problem-solving, design ideas, and documentation.
+
+The final project represents my own portfolio and creative work.
